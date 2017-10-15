@@ -1,0 +1,23 @@
+﻿生成启动时间为 2017/10/8 21:00:00。
+     1>项目“D:\Program Files (x86)\VS2010\编程文档\a+aa+aaa...求和\a+aa+aaa...求和\a+aa+aaa...求和.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\a+aa+aaa...求和.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files (x86)\VS2010\安装路径\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt a+aa+aaa...cpp
+         a+aa+aaa...cpp
+     1>d:\program files (x86)\vs2010\编程文档\a+aa+aaa...求和\a+aa+aaa...求和\a+aa+aaa...cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vs2010\安装路径\vc\include\stdio.h(304) : 参见“scanf”的声明
+       Link:
+         d:\Program Files (x86)\VS2010\安装路径\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Program Files (x86)\VS2010\编程文档\a+aa+aaa...求和\Debug\a+aa+aaa...求和.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\a+aa+aaa...求和.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Program Files (x86)\VS2010\编程文档\a+aa+aaa...求和\Debug\a+aa+aaa...求和.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Program Files (x86)\VS2010\编程文档\a+aa+aaa...求和\Debug\a+aa+aaa...求和.lib" /MACHINE:X86 Debug\a+aa+aaa...obj
+         LINK : 没有找到 D:\Program Files (x86)\VS2010\编程文档\a+aa+aaa...求和\Debug\a+aa+aaa...求和.exe 或上一个增量链接没有生成它；正在执行完全链接
+         a+aa+aaa...求和.vcxproj -> D:\Program Files (x86)\VS2010\编程文档\a+aa+aaa...求和\Debug\a+aa+aaa...求和.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Program Files (x86)\VS2010\编程文档\a+aa+aaa...求和\Debug\a+aa+aaa...求和.exe;#1" /manifest "Debug\a+aa+aaa...求和.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\a+aa+aaa...求和.unsuccessfulbuild”。
+         正在对“Debug\a+aa+aaa...求和.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Program Files (x86)\VS2010\编程文档\a+aa+aaa...求和\a+aa+aaa...求和\a+aa+aaa...求和.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.40
